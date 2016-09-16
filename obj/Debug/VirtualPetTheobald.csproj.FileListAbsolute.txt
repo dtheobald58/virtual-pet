@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\bin\Debug\VirtualPetTheobald.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\obj\Debug\VirtualPetTheobald.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\bin\Debug\VirtualPetTheobald.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\bin\Debug\VirtualPetTheobald.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\obj\Debug\VirtualPetTheobald.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPetTheobald\VirtualPetTheobald\obj\Debug\VirtualPetTheobald.pdb
